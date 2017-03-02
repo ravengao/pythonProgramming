@@ -1,5 +1,7 @@
 Common Programming questions solution (with python)
 
+- These are my own solutions, still on update and refinement :)
+
 # Intersection:
 common elements in 2 arrays with repeted elements
 
